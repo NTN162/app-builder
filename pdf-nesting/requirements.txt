@@ -1,0 +1,22 @@
+# PDF Processing
+PyPDF2>=3.0.0
+pymupdf>=1.23.0
+reportlab>=4.0.0
+
+# SVG Processing
+svgwrite>=1.4.3
+svgpathtools>=1.6.0
+svgelements>=1.9.0
+
+# Geometry and Nesting
+shapely>=2.0.0
+numpy>=1.24.0
+scipy>=1.10.0
+
+# AI/Illustrator Export
+svglib>=1.5.0
+cairosvg>=2.7.0
+
+# Utilities
+pillow>=10.0.0
+lxml>=4.9.0
